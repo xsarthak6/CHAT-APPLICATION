@@ -23,3 +23,9 @@ The editor/platform used for developing this task was Visual Studio Code. VS Cod
 This task can be applicable in many real-world situations. It can be used in business communication platforms like team collaboration tools, customer support live chat systems, and internal office messaging software. It can be useful in education platforms where students and teachers communicate instantly during online classes. It can also be used in social networking websites, gaming communities, and discussion forums. Companies such as WhatsApp, Telegram, and Discord use similar real-time communication concepts. The project can be extended further by adding private chat, group chat, emojis, file sharing, user authentication, and message storage in databases.
 
 Overall, this task is a practical example of creating a live communication system using full-stack technologies. It helps learners understand client-server architecture, WebSocket communication, backend development, and responsive frontend design. It is highly useful for both learning purposes and real-world applications.
+
+##OUTPUT
+
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/63cddc4d-c19f-42b6-a47e-4ac40b7823c8" />
+
+
